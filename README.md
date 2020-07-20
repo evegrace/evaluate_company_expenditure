@@ -24,8 +24,10 @@ Deploy
 I hope the results can be used to further the analysis , with data modeling also being updated over time.
 File Descriptions
 All code can be found in the attached file: HR Analytics.ipynb
+
 Interaction
 As mentioned above, please feel free in this debut repository of mine to expand it with code, suggestions, and/or questions
+
 Licensing, Authors, Acknowledgements, etc.
 So far, no licensing is needed. Data is from Kaggle, and hence open for use by all.
 Thanks in advance for any contribution to this project.
